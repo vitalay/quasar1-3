@@ -1,1 +1,0 @@
-"use strict";(globalThis["webpackChunkquassar1_3"]=globalThis["webpackChunkquassar1_3"]||[]).push([[287],{5287:(a,e,s)=>{s.r(e),s.d(e,{default:()=>r});var u=s(1758);const n=Object.assign({name:"IndexPage"},{__name:"IndexPage",setup(a){return(a,e)=>((0,u.uX)(),(0,u.CE)("p",null,"новое приложение"))}}),l=n,r=l}}]);
